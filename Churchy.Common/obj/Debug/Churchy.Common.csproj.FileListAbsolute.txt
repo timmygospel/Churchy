@@ -1,0 +1,5 @@
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Common\bin\Debug\Churchy.Common.dll
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Common\bin\Debug\Churchy.Common.pdb
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Common\obj\Debug\Churchy.Common.csprojResolveAssemblyReference.cache
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Common\obj\Debug\Churchy.Common.dll
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Common\obj\Debug\Churchy.Common.pdb

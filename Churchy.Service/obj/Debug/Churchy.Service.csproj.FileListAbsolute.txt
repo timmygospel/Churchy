@@ -1,0 +1,15 @@
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Service\obj\Debug\Churchy.Service.csprojResolveAssemblyReference.cache
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Service\bin\Debug\Churchy.Service.dll
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Service\bin\Debug\Churchy.Service.pdb
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Service\bin\Debug\AutoMapper.dll
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Service\bin\Debug\Churchy.Common.dll
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Service\bin\Debug\Churchy.Model.dll
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Service\bin\Debug\Churchy.Repository.dll
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Service\bin\Debug\EntityFramework.dll
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Service\bin\Debug\Churchy.Common.pdb
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Service\bin\Debug\Churchy.Model.pdb
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Service\bin\Debug\Churchy.Repository.pdb
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Service\bin\Debug\AutoMapper.xml
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Service\bin\Debug\EntityFramework.xml
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Service\obj\Debug\Churchy.Service.dll
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Service\obj\Debug\Churchy.Service.pdb

@@ -1,0 +1,14 @@
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Repository\bin\Debug\Churchy.Repository.dll.config
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Repository\bin\Debug\Churchy.Repository.dll
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Repository\bin\Debug\Churchy.Repository.pdb
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Repository\bin\Debug\Churchy.Model.dll
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Repository\bin\Debug\EntityFramework.dll
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Repository\bin\Debug\Churchy.Model.pdb
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Repository\bin\Debug\EntityFramework.xml
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Repository\obj\Debug\Churchy.Repository.csprojResolveAssemblyReference.cache
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Repository\obj\Debug\Churchy.Repository.dll
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Repository\obj\Debug\Churchy.Repository.pdb
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Repository\obj\Debug\Churchy.Repository.Migrations.InitialCreate.resources
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Repository\obj\Debug\Churchy.Repository.csproj.GenerateResource.Cache

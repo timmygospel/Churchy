@@ -1,0 +1,5 @@
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Model\bin\Debug\Churchy.Model.dll
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Model\bin\Debug\Churchy.Model.pdb
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Model\obj\Debug\Churchy.Model.dll
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Model\obj\Debug\Churchy.Model.pdb
+C:\Users\timm\documents\visual studio 2015\Projects\churchy\Churchy.Model\obj\Debug\Churchy.Model.csprojResolveAssemblyReference.cache
